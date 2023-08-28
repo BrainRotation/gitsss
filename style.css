@@ -1,4 +1,33 @@
+
 .potato h3{
   color: teal;
   font-weight: 600;
+=======
+.gari {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.gari h3 {
+  font-size: 40px;
+  color: tomato;
+}
+
+.gari img {
+  width: 140px;
+  border-radius: 10px;
+  margin-right: 30px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.seoi img {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+}
+
+.리아님 {
+  color: palevioletred;
 }
